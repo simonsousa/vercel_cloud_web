@@ -1,0 +1,23 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonsousa/vercel_cloud_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonsousa/vercel_cloud_web/issues"
+  },
+  "homepage": "https://github.com/simonsousa/vercel_cloud_web#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
